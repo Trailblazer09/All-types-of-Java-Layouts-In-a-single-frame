@@ -28,7 +28,9 @@ Each layout is color-coded, labeled, and displayed in a dedicated panel—allowi
 
 ---
 ## 🖼️ Static Preview (Alt View)
-![Still Screenshot](Screenshots 2025-06-29 180830.png)
+<p align="center">
+  <img src="Screenshot 2025-06-29 180830.png" width="700"/>
+</p>
 
 ## 🎬 GIF Preview
 <p align="center">
