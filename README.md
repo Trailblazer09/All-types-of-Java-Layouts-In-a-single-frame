@@ -27,9 +27,10 @@ Each layout is color-coded, labeled, and displayed in a dedicated panel—allowi
 - Clean, commented Java code using `JFrame` and `JPanel`
 
 ---
+## 🖼️ Static Preview (Alt View)
+![Still Screenshot](Screenshots 2025-06-29 180830.png)
 
-## 🎬 Preview
-
+## 🎬 GIF Preview
 <p align="center">
   <img src="layout_demo.gif" width="700"/>
 </p>
