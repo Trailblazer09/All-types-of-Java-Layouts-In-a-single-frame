@@ -31,8 +31,9 @@ Each layout is color-coded, labeled, and displayed in a dedicated panel—allowi
 ## 🎬 Preview
 
 <p align="center">
-  <img src="assets/layout_demo.gif" width="700"/>
+  <img src="layout_demo.gif" width="700"/>
 </p>
+
 
 ---
 
