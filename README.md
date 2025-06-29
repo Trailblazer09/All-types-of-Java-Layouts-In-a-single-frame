@@ -30,9 +30,9 @@ Each layout is color-coded, labeled, and displayed in a dedicated panel—allowi
 
 ## 🎬 Preview
 
-
-
-![Layout Showcase Screenshot](assets/layout_demo.png)
+<p align="center">
+  <img src="assets/layout_demo.gif" width="700"/>
+</p>
 
 ---
 
