@@ -1,7 +1,7 @@
 # All-types-of-Java-Layouts-In-a-single-frame
 # 🎨 Java Swing Layout Showcase
 
-A vibrant demonstration of **six layout managers** in Java Swing—beautifully arranged in a single frame for visual comparison and learning.
+A vibrant showcase of **six layout managers** in Java Swing, elegantly arranged within a single frame for visual comparison and learning. The highlight is that all the buttons are clickable, and each layout has its own impressive functionality.
 
 ## 🚀 About the Project
 
